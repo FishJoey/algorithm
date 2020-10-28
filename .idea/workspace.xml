@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35cf7eb8-1e6b-4c8a-a86b-4e6392ab4afe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_search/search_insert_position.go" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/search_insert_position.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rm/resource_manager.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rm/resource_manager_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/utils.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/utils_test.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d40cQpupFKQ6LQiBISW3bJOhqR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.Test_insertSort in algorithm/rm">
+    <configuration name="Benchmark_searchInsertPosition in algorithm/binary_search" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/binary_search" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/binary_search" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Benchmark_searchInsertPosition$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSlice in algorithm/rm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/rm" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/rm" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSlice$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSlice2 in algorithm/rm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/rm" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/rm" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSlice2$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_insertSort in algorithm/rm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/rm" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/rm" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_insertSort$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_searchInsert in algorithm/binary_search" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/binary_search" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/binary_search" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_searchInsert$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_insertSort in algorithm/rm" />
+        <item itemvalue="Go Test.TestSlice2 in algorithm/rm" />
+        <item itemvalue="Go Test.TestSlice in algorithm/rm" />
+        <item itemvalue="Go Test.Benchmark_searchInsertPosition in algorithm/binary_search" />
+        <item itemvalue="Go Test.Test_searchInsert in algorithm/binary_search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoTestRunConfiguration">
+        <watch expression="booking" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
